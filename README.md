@@ -1,6 +1,6 @@
 # Summer - Typora Theme
 
-![logo](img/feature.png)
+![logo](Summer/img/feature.png)
 
 > A custom theme for Typora Markdown editor focusing on fresh summer style, rich interactive experience, and elegant visual effects
 
@@ -14,19 +14,19 @@
 ## Preview
 
 ### Text Styles and Formatting
-![Text Styles](img/style.png)
+![Text Styles](Summer/img/style.png)
 
 ### Lists and Task Lists
-![Lists](img/list.png)
+![Lists](Summer/img/list.png)
 
 ### Blockquotes and Alert Boxes
-![Blockquotes](img/cite.png)
+![Blockquotes](summer/img/cite.png)
 
 ### Table Styles
-![Tables](img/table.png)
+![Tables](summer/img/table.png)
 
 ### Code Blocks
-![Code Blocks](img/code.png)
+![Code Blocks](summer/img/code.png)
 
 ## Installation
 
