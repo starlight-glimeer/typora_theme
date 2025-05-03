@@ -20,13 +20,13 @@
 ![Lists](Summer/img/list.png)
 
 ### Blockquotes and Alert Boxes
-![Blockquotes](summer/img/cite.png)
+![Blockquotes](Summer/img/cite.png)
 
 ### Table Styles
-![Tables](summer/img/table.png)
+![Tables](Summer/img/table.png)
 
 ### Code Blocks
-![Code Blocks](summer/img/code.png)
+![Code Blocks](Summer/img/code.png)
 
 ## Installation
 
