@@ -80,15 +80,13 @@ This theme was designed and tested on Windows. It should work on other platforms
 
 ## Credits
 
-See [credits.md](credits.md) for a complete list of inspirations and acknowledgments.
+See credits.mdfor a complete list of inspirations and acknowledgments.
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the LICENSEfile for details.
 
 ---
 
 If you enjoy this theme, a ⭐ on GitHub would be appreciated!
-
-*[查看中文版](README_zh.md)*
 

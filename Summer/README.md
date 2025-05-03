@@ -90,5 +90,5 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 If you enjoy this theme, a ⭐ on GitHub would be appreciated!
 
-*[查看中文版](README_zh.md)*
+
 
